@@ -30,7 +30,7 @@ import { Camera, Permissions, ImageManipulator } from 'expo';
 
 ```
 
-Now the main and important part We are going to use (Clarifai)[https://clarifai.com/] API ehich have pre-trained model of many different classes.
+Now the main and important part We are going to use [Clarifai](https://clarifai.com/) API ehich have pre-trained model of many different classes.
 
 Go to the website and sign In you will get API-KEY copy and paste it in the place of api key in the code.
 
